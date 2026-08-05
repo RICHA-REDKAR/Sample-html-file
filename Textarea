@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>
+            Adding Text Area
+        </title>
+    </head>
+    <form>
+           <textarea rows="5" col="15">
+            This ia an example of text area on the webpage. A user can input in this area
+           </textarea>
+        </form>
+</html>
