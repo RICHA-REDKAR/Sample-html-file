@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>This page shows an image</title>
+    </head>
+    <body background="C:\Users\STUDENT\Downloads\images.jpg">
+        This webpage has a backgroung image.
+    </body>
+</html>
