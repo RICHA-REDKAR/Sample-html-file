@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            Adding radio buttons
+        </title>
+    </head>
+    <form action="">
+            YES:
+            <input type="radio" name="poll" value="yes"/>
+            <br>
+            NO:
+            <input type="Checkbox" name="poll" value="no"/>
+        </form>
+</html>
