@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Adding check box</title>
+    </head>
+    <body>
+        <form action="">
+            <b>
+            I love reading</b>
+            <input type="Checkbox" name="hobby" value="books">
+            <br>
+            <b>I love playing</b>
+            <input type="Checkbox" name="hobby" value="play"><checked>
+        </form>
+    </body>
+</html>
