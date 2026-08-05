@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title> table </title>
+    </head>
+    <body bgcolor="coral">
+        <table border="10" align="right" width="95%" bgcolor="pink" cellpadding="6" cellspacing="8">
+            <<caption><h2>Student details</h2></caption>
+            <th rowspan="5">Student name
+            with<br>
+            DOB<br>
+            and<br>
+            address</th>
+            <th width="20%" Name</th>
+            <th width="350%" DOB</th>
+            <th width="40%" Address</th>
+            <tr>
+                <td>Helen Rego</td>
+                <td>11-02-2021</td>
+                <td align="center">Margao</td>
+            </tr>
+            <tr>
+                <td>Sara Martins</td>
+                <td>4-06-2021</td>
+                <td align="center">Quepem</td>
+            </tr>
+            <tr>
+                <td>John Jacobs</td>
+                <td>30-01-2021</td>
+                <td align="center">Bardez</td>
+            </tr>
+        </table>
+    </body>
+</html>
