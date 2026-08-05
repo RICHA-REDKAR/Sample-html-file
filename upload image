@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>This page shows an image</title>
+    </head>
+    <body>
+        <img src="C:\Users\STUDENT\Downloads\images.jpg" alt="Mountain"
+    </body>
+</html>
