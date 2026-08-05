@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+            Adding Reset buttons
+        </title>
+    </head>
+    <form action="Example.html" method="post">
+            Username:
+            <input type="text" size="30"/>
+            <br>
+            Password:
+            <input type="text" size="30"/>
+            <br>
+            <input type="submit" name="Submit">
+            <input type="reset">
+        </form>
+</html>
