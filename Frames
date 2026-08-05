@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <title>
+            Frame 1
+        </title>
+    </head>
+    <body>
+        frame1
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>
+            Frame 2
+        </title>
+    </head>
+    <body>
+        frame2
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>
+            Frame 3
+        </title>
+    </head>
+    <body>
+        frame3
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Vertical frames</title>
+    </head>
+    <frameset cols="33%,33%,34%" frameborder="1" framespacing="10">
+        <frame src="F1.html"/>
+        <frame src="F2.html"/>
+<frame src="F3.html"/>
+    </frameset>
+</html>
+
+<html>
+    <head>
+        <title>Frame set </title>
+    </head>
+    <frameset rows="65%,35%">
+        <frame name="Frame1" src="F1.html"/>
+        
+ <frameset cols="50%,50%">
+<frame name="Frame2" src="F2.html"/>
+<frame name="Frame3" src="F3.html"/>
+    </frameset>
+</frameset>
+</html>
+
+<html>
+    <head>
+        <title>Named frames</title>
+    </head>
+    <frameset cols="25%,75%">
+        <frame src="Mainpage.html">
+        <frame src="Defaultpage.html name=Display">
+
+    </frameset>
+</html>
+
+<html>
+    <head>
+        <title>Page</title>
+    </head>
+    <body>
+       <h1 align="Center">Click a Hyperlink</h1>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Page</title>
+    </head>
+    <body>
+        <a href="F1.html" target="display"></a>
+        <br>
+        <a href="F2.html" target="display"></a>
+        <h2>Frame 2</h2>
+    </body>
+</html>
+
+
