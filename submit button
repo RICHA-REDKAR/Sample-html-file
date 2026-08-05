@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+            Adding submit buttons
+        </title>
+    </head>
+    <form action="Example.html" method="post">
+            Username:
+            <input type="text" name="Enter your username">
+            <br>
+            Password:
+            <input type="text" name="Enter password">
+            <br>
+            <input type="submit" name="Submit">
+        </form>
+</html>
+
