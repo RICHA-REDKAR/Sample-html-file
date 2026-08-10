@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> inline styles </title>
+    </head>
+    <body bgcolor="coral">
+        <table border="1">
+            <<caption><h2>Student details</h2></caption>
+            <th style="background-color: aquamarine">Name</th>
+            <th style="background-color: aquamarine">DOB</th>
+            <th style="background-color: aquamarine">Address</th>
+            <tr>
+                <th style="background-color: aquamarine">Helen Rego</th>
+                <th style="background-color: khaki">04-06-2021</th>
+                <th style="background-color: rgb(255, 127, 238)">Quepem</th>
+            </tr>
+            <tr>
+                <th style="background-color: aquamarine">John Jacobs</th>
+                <th style="background-color: khaki">11-02-2021</th>
+                <th style="background-color: rgb(255, 127, 238)">Margao</th>
+            </tr>
+            <tr>
+                <th style="background-color: aquamarine">Nasdak</th>
+                <th style="background-color: khaki">21-04-2021</th>
+                <th style="background-color: rgb(255, 127, 238)">Sanguem</th>
+            </tr>
+        </table>
+    </body>
+</html>
