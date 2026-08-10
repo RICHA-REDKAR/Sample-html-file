@@ -1,0 +1,5 @@
+<style >
+            body{background-color:yellow}/*background color is alice blue*/
+            th.color{background-color: pink}
+            .green{background-color: #008000}
+        </style>
